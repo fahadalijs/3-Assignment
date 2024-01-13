@@ -1,0 +1,40 @@
+#navigation{
+    border: 2px solid #000000;
+    padding: 25px;
+    margin: 5PX;
+    background-color: #800080;
+}
+a:hover{
+    color: red;
+}
+ul,li{
+    display: inline;
+    padding-right:  50px;
+    margin-left: 90px;
+}
+a{
+ color: #ffffff;
+ text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-family:cursive ;
+    font-size: 5rem;
+    color:blue;
+}
+#h1{
+    color: #9acd32;
+}
+h2{
+    text-align: center;
+    color: #ff0000;
+}
+.h2{
+    color: green;
+}
+.para{
+    text-align: center;
+    color:green ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+}
